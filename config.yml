@@ -1,0 +1,11 @@
+Server:
+  Ipv4: "0.0.0.0"
+  Port: "9999"
+  Debug: false
+
+  Proxy:
+    HandshakeTimeout: 5 # in seconds
+  
+Bot:
+  Token: "Bot token" # telegram bot token
+  OwnerIds: [123] # telegram id
